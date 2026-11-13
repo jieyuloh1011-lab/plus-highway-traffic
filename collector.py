@@ -51,7 +51,7 @@ def main():
             ])
 
         for loc in LOCATIONS:
-            base_url = "https://" + "api." + "://tomtom.com"
+            base_url = "https://" + ".".join(["api", "tomtom", "com"])
             path = "/traffic/services/4/flowSegmentData/absolute/10/json"
             coords = f"?point={loc['lat']},{loc['lon']}&key={API_KEY}"
             url = base_url + path + coords
