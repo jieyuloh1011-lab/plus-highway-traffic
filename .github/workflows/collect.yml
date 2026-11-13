@@ -1,7 +1,7 @@
 name: Collect PLUS Traffic Data
 on:
   schedule:
-    - cron: '3,18,38,48 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
 
 permissions:
