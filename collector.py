@@ -51,9 +51,10 @@ def main():
             ])
 
         for loc in LOCATIONS:
-            url = (
-                f"https://tomtom.com"{loc['lat']},{loc['lon']}&key={API_KEY}"
-            )
+            base_url = "https://" + "://tomtom.com"
+            path = "/traffic/services/4/flowSegmentData/absolute/10/json"
+            coords = f"?point={loc['lat']},{loc['lon']}&key={API_KEY}"
+            url = base_url + path + coords
             res = requests.get(url, timeout=10).json()
             flow = res.get("flowSegmentData", {})
 
