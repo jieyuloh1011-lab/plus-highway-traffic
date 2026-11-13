@@ -1,16 +1,4 @@
 timestamp,day_of_week,city,direction,current_speed,free_flow_speed,speed_ratio,traffic_level
-2026-11-13 16:19:37,Friday,Johor Bahru (Skudai),NB,64,89,0.719,Light
-2026-11-13 16:19:37,Friday,Johor Bahru (Skudai),SB,46,54,0.852,Free
-2026-11-13 16:19:37,Friday,Melaka (Ayer Keroh),NB,114,114,1.0,Free
-2026-11-13 16:19:37,Friday,Melaka (Ayer Keroh),SB,51,61,0.836,Light
-2026-11-13 16:19:37,Friday,Seremban,NB,41,62,0.661,Light
-2026-11-13 16:19:37,Friday,Seremban,SB,41,62,0.661,Light
-2026-11-13 16:19:37,Friday,Kuala Lumpur (Sungai Besi),NB,72,81,0.889,Free
-2026-11-13 16:19:37,Friday,Kuala Lumpur (Sungai Besi),SB,82,107,0.766,Light
-2026-11-13 16:19:37,Friday,Ipoh,NB,92,92,1.0,Free
-2026-11-13 16:19:37,Friday,Ipoh,SB,92,92,1.0,Free
-2026-11-13 16:19:37,Friday,Penang (Juru),NB,72,100,0.72,Light
-2026-11-13 16:19:37,Friday,Penang (Juru),SB,72,100,0.72,Light
 2026-11-13 16:28:30,Friday,Johor Bahru (Skudai),NB,57,89,0.64,Light
 2026-11-13 16:28:30,Friday,Johor Bahru (Skudai),SB,44,54,0.815,Light
 2026-11-13 16:28:30,Friday,Ayer Hitam,NB,47,63,0.746,Light
