@@ -27239,3 +27239,27 @@ timestamp,day_of_week,city,direction,current_speed,free_flow_speed,speed_ratio,t
 2026-11-25 16:46:04,Wednesday,Penang (Juru),SB,0,0,0,Standstill
 2026-11-25 16:46:04,Wednesday,Alor Setar,NB,0,0,0,Standstill
 2026-11-25 16:46:04,Wednesday,Alor Setar,SB,0,0,0,Standstill
+2026-11-25 17:01:05,Wednesday,Johor Bahru (Skudai),NB,58,89,0.652,Light
+2026-11-25 17:01:05,Wednesday,Johor Bahru (Skudai),SB,48,52,0.923,Free
+2026-11-25 17:01:05,Wednesday,Ayer Hitam,NB,54,63,0.857,Free
+2026-11-25 17:01:05,Wednesday,Ayer Hitam,SB,54,63,0.857,Free
+2026-11-25 17:01:05,Wednesday,Pagoh,NB,64,74,0.865,Free
+2026-11-25 17:01:05,Wednesday,Pagoh,SB,64,74,0.865,Free
+2026-11-25 17:01:05,Wednesday,Melaka (Ayer Keroh),NB,114,114,1.0,Free
+2026-11-25 17:01:05,Wednesday,Melaka (Ayer Keroh),SB,61,61,1.0,Free
+2026-11-25 17:01:05,Wednesday,Seremban,NB,26,64,0.406,Heavy
+2026-11-25 17:01:05,Wednesday,Seremban,SB,26,64,0.406,Heavy
+2026-11-25 17:01:05,Wednesday,Nilai,NB,116,116,1.0,Free
+2026-11-25 17:01:05,Wednesday,Nilai,SB,116,116,1.0,Free
+2026-11-25 17:01:05,Wednesday,Kuala Lumpur (Sungai Besi),NB,81,81,1.0,Free
+2026-11-25 17:01:05,Wednesday,Kuala Lumpur (Sungai Besi),SB,83,106,0.783,Light
+2026-11-25 17:01:05,Wednesday,Rawang,NB,113,113,1.0,Free
+2026-11-25 17:01:05,Wednesday,Rawang,SB,113,113,1.0,Free
+2026-11-25 17:01:05,Wednesday,Tapah,NB,69,69,1.0,Free
+2026-11-25 17:01:05,Wednesday,Tapah,SB,69,69,1.0,Free
+2026-11-25 17:01:05,Wednesday,Ipoh,NB,92,92,1.0,Free
+2026-11-25 17:01:05,Wednesday,Ipoh,SB,92,92,1.0,Free
+2026-11-25 17:01:05,Wednesday,Penang (Juru),NB,64,100,0.64,Light
+2026-11-25 17:01:05,Wednesday,Penang (Juru),SB,64,100,0.64,Light
+2026-11-25 17:01:05,Wednesday,Alor Setar,NB,65,65,1.0,Free
+2026-11-25 17:01:05,Wednesday,Alor Setar,SB,53,59,0.898,Free
